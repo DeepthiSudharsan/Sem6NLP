@@ -1,0 +1,3 @@
+Welcome to Natural Language Processing.
+It is one of the most exciting research areas as of today.
+We will see how Python can be used to work with text files.
